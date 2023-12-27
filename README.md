@@ -1,0 +1,3 @@
+*Hints*
+
+the documentation details
